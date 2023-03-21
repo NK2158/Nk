@@ -1,22 +1,23 @@
 # Instagram Product Guide
 Welcome to the product guide on how to use Instagram, designed for senior citizens! In this guide, we'll provide step-by-step instructions on how to create an account, navigate the app, and interact with other users.
 
-Creating an Account on Instagram
+## Creating an Account on Instagram
 To create an account on Instagram, follow these steps:
 
-Download the Instagram app from your app store (available for iOS and Android).
-Open the app and tap "Sign Up."
-Enter your email address or phone number and create a password.
-Enter your full name and create a username (or handle) that will be publicly displayed on your profile.
-Add a profile picture by taking a photo or selecting one from your camera roll.
-Tap "Done."
-Navigating the App
+1. Download the Instagram app from your app store (available for iOS and Android).
+2. Open the app and tap "Sign Up."
+3. Enter your email address or phone number and create a password.
+4. Enter your full name and create a username (or handle) that will be publicly displayed on your profile.
+5. Add a profile picture by taking a photo or selecting one from your camera roll.
+6. Tap "Done."
+
+## Navigating the App
 Once you have created an account, you can start navigating the app. Here are some of the key features to be aware of:
 
-Home Feed: This is the main screen that displays photos and videos from the accounts you follow. Scroll up and down to view more posts.
-Search: This feature allows you to search for other Instagram users or specific content using hashtags.
-Profile: Your profile is where you can view your own posts, edit your profile, and see your followers and following.
-Notifications: This feature alerts you to new likes, comments, and follows.
+* Home Feed: This is the main screen that displays photos and videos from the accounts you follow. Scroll up and down to view more posts.
+* Search: This feature allows you to search for other Instagram users or specific content using hashtags.
+* Profile: Your profile is where you can view your own posts, edit your profile, and see your followers and following.
+* Notifications: This feature alerts you to new likes, comments, and follows.
 Interacting with Other Users
 Instagram is a social media app, so interacting with other users is a key component of the experience. Here are some ways to do that:
 
